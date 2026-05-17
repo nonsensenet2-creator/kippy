@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "exe_url": "https://github.com/nonsensenet2-creator/kippy/releases/latest/download/NetkubLauncher.exe",
   "sig_url": "https://github.com/nonsensenet2-creator/kippy/releases/latest/download/NetkubLauncher.exe.sig",
   "notes": "เวอร์ชั่นแรก - ระบบ License ใหม่พร้อม Auto-Update"
